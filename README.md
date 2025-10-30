@@ -1,2 +1,2 @@
-# bitget-sdk
-bitget sdk
+# 📈 bitget-sdk
+A wrapper for the Bitget API.
